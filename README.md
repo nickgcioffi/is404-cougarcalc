@@ -1,2 +1,2 @@
 ## Merge Conflict Practice
-Favorite color: brown
+Favorite color: blue
